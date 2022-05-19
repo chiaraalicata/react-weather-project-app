@@ -5,8 +5,9 @@
 }
 .App .container {
   background: linear-gradient(180deg, #c1e8fe 20%, #efc977 80%);
-  padding: 40px;
+  padding: 20px;
 }
 .App footer {
   font-size: 12px;
+  margin-top: 20px;
 }

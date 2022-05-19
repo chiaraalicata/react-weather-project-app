@@ -36,3 +36,19 @@
   background: rgba(246, 252, 252, 0.8);
   border-radius: 50px;
 }
+
+.Weather .temperature {
+  font-weight: bold;
+  font-size: 64px;
+  color: #5486bb;
+  line-height: 64px;
+  margin: 10px;
+}
+
+.Weather .unit {
+  color: #5486bb;
+  font-size: 18px;
+  position: relative;
+  top: -32px;
+  line-height: 1;
+}
