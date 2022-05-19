@@ -1,0 +1,5 @@
+.App .container {
+  margin: 80px 50px;
+  padding: 50px 450px 0;
+  background: linear-gradient(180deg, #c1e8fe 20%, #efc977 80%);
+}
