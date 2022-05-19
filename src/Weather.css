@@ -1,18 +1,38 @@
 .Weather {
   position: relative;
   border-radius: 20px;
-  width: 400px;
-  height: 500px;
+  min-width: 400px;
+  min-height: 400px;
+  max-width: 600px;
+  max-height: 900px;
   background: #f6fcfc;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   border-radius: 300px 300px 0px 0px;
+  padding: 20px;
 }
 .Weather h1 {
   position: relative;
   width: 229px;
   height: 47px;
   font-size: 32px;
-  text-align: center;
   color: #f6fcfc;
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  margin-top: 5px;
+  margin-left: 90px;
+}
+
+.Weather li {
+  color: #5486bb;
+  font-size: 16px;
+  line-height: 20px;
+  list-style: none;
+}
+
+.Weather form {
+  margin-left: 55px;
+  margin-bottom: 60px;
+  width: 210px;
+  height: 22px;
+  background: rgba(246, 252, 252, 0.8);
+  border-radius: 50px;
 }

@@ -1,5 +1,12 @@
+.App {
+  max-width: 620px;
+  max-height: 900px;
+  margin: 50px auto;
+}
 .App .container {
-  margin: 80px 50px;
-  padding: 50px 450px 0;
   background: linear-gradient(180deg, #c1e8fe 20%, #efc977 80%);
+  padding: 40px;
+}
+.App footer {
+  font-size: 12px;
 }
