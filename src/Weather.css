@@ -1,14 +1,15 @@
 .Weather {
   position: relative;
   border-radius: 20px;
-  min-width: 400px;
+  min-width: 300px;
   min-height: 400px;
-  max-width: 600px;
+  max-width: 550px;
   max-height: 900px;
   background: #f6fcfc;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   border-radius: 300px 300px 0px 0px;
   padding: 20px;
+  margin: auto;
 }
 .Weather h1 {
   position: relative;
