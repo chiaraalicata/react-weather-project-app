@@ -52,3 +52,7 @@
   top: -32px;
   line-height: 1;
 }
+
+.Weather canvas {
+  margin: 20px;
+}
