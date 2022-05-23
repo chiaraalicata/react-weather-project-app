@@ -57,3 +57,10 @@
 .Weather canvas {
   margin: 20px;
 }
+
+.Weather form {
+  margin-left: 140px;
+}
+.Weather .btn {
+  border-radius: 50px;
+}
