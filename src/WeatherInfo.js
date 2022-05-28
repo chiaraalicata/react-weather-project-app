@@ -6,7 +6,6 @@ import WeatherTemperature from "./WeatherTemperature";
 export default function WeatherInfo(props) {
   return (
     <div>
-      <h1>{props.data.city}</h1>
       <div className="text-center">
         <WeatherTemperature celsius={props.data.temperature} />
         <div className="text-center">
