@@ -55,13 +55,18 @@
 }
 
 .Weather canvas {
-  margin: 20px;
+  margin: 20px 80px;
+  margin-bottom: 0;
 }
 
 .Weather form {
   margin-left: 140px;
 }
 @media (max-width: 576px) {
+  .Weather canvas {
+    margin: 5px 40px;
+    margin-bottom: 0;
+  }
   .Weather form {
     margin: 20px;
     text-align: center;
